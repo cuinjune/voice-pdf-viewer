@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    /* touch-action: pan-x pan-y; */
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: rgb(82, 86, 89);
+    min-width: 700px;
+}
+
+#menubar-wrapper {
+    position: fixed;
+    z-index: 1000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    min-width: 700px;
+    background-color: rgb(50, 54, 57);
+    -webkit-box-shadow: 2px 3px 8px rgb(40, 40, 40);
+    -moz-box-shadow: 2px 3px 8px rgb(40, 40, 40);
+    box-shadow: 2px 3px 8px rgb(40, 40, 40);
+
+    /* disable text select */
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.menuitem {
+    /* border: solid white 1px; */
+}
+
+#title {
+    width: 45%;
+    font-size: 15px;
+    color: rgb(239, 239, 239);
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+#page {
+    width: 10%;
+    font-size: 15px;
+    color: rgb(239, 239, 239);
+    font-weight: bold;
+    text-align: center;
+}
+
+#gui {
+    width: 45%;
+    text-align: right;
+    padding-right: 30px;
+}
+
+#upload {
+    display: none;
+}
+
+.button {
+    width: 85px;
+    height: 25px;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(50, 54, 57);
+}
+
+#commands {
+    width: 120px;
+    height: 25px;
+    font-size: 12px;
+    font-weight: bold;
+    color: rgb(50, 54, 57);
+}
+
+#canvas-wrapper {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.canvas {
+    margin-top: 16px;
+    width: 100%;
+    max-width: 950px;
+    -webkit-box-shadow: 2px 3px 8px rgb(10, 10, 10);
+    -moz-box-shadow: 2px 3px 8px rgb(10, 10, 10);
+    box-shadow: 2px 3px 8px rgb(10, 10, 10);
+}
