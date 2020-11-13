@@ -28,7 +28,7 @@ Here's the list of all voice commands that are supported: (The user can see the 
 
 **Actually, the app should respond to your commands without saying "SCROLL" but I just added them since the app seemed to recognize the follow up words better when it's prefixed with "SCROLL".**
 
-The user is expected to mostly use "SCROLL UP" and "SCROLL DOWN" commands that are enough to allow the user to read through the document page by page. But it also offers more specific commands such as "SCROLL TOP" which can be useful when the user is reading a page written in multiple columns.
+The user is expected to mostly use "SCROLL UP" and "SCROLL DOWN" commands that are enough to allow the user to read through the document page by page. But it also offers more specific commands such as "SCROLL TOP" which can be useful when the user is reading a page written in multiple columns of text.
 The scrolling always works by dividing a page in 3 sections that are top, middle, bottom because it is easier for the user to keep track of the page while requiring minimal scrolling commands.
 
 ## Process & Thoughts
