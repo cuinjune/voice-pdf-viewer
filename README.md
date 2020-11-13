@@ -12,7 +12,7 @@ Here's the [Live Demo on Glitch](https://cuinjune-voice-pdf-viewer.glitch.me/). 
 
 ## How it works
 
-The app seems to only works in Chrome because of `webkitSpeechRecognition`. The app will start with a sample PDF file being opened. The user can load their own PDF file by clicking on the "Upload" button at the top right corner.
+The app seems to only works in Chrome browser because of `webkitSpeechRecognition`. The app will start with a sample PDF file being opened. The user can load their own PDF file by clicking on the "Upload" button at the top right corner.
 The app works just like other existing PDF viewers except that it responds to voice commands.
 
 Here's the list of all voice commands that are supported: (The user can see the list within the app by clicking on the "Voice Commands" buutton) 
