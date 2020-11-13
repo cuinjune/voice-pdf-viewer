@@ -42,7 +42,7 @@ But I think it's something I might consider updating in the future since it will
 
 The goal of this app was mainly to explore simple UI interaction using voice commands but I think this app could actually be useful in some cases such as the following examples:
 
-- A piano player who practices along a note sheet can find the app useful to turn pages without using hands just like the person who posted [this](https://www.tenforums.com/software-apps/96323-pdf-viewer-voice-control.html).
+- A piano player who practices along a note sheet can find the app useful just like the person who posted [this](https://www.tenforums.com/software-apps/96323-pdf-viewer-voice-control.html).
 - A person who is cooking while following a recipe on a PDF document will find the app useful.
 - A person who wants to read a PDF document while sitting/lying on a sofa or bed, it might be hard for him/her to reach the device with hands in some postures.
 - Disabled people and people who had their arms/hands injured might find the app useful.
