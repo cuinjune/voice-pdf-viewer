@@ -8,7 +8,7 @@ The assignment was to create something that takes voice input from a person and 
 
 I decided to create a voice-controlled PDF viewer app.
 
-Here's the [Live Demo on Glitch](https://cuinjune-voice-pdf-viewer.glitch.me/).
+Here's the [Live Demo on Glitch](https://cuinjune-voice-pdf-viewer.glitch.me/). (Please try in Chrome)
 
 ## How it works
 
